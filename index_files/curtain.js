@@ -1,8 +1,4 @@
-﻿/*
-* http://keleyi.com
-* 柯乐义
-*/
-$(document).ready(function () {
+﻿$(document).ready(function () {
 
     $curtainopen = false;
 
